@@ -3,8 +3,6 @@
 
 [![Coverage](https://gitlab.sorbonne-paris-nord.fr/11924788/jsau-webapp/badges/main/coverage.svg)](https://gitlab.sorbonne-paris-nord.fr/11924788/jsau-jsau-webapp/-/commits/main)
 
-# README - jsau-webapp
-
 ## Description
 Application web développée avec Vue.js et intégrée avec jsau-apiserver pour la gestion des données dynamiques.
 
